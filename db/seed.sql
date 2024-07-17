@@ -25,16 +25,16 @@ INSERT INTO employee
     (first_name, last_name, role_id, manager_id)
 VALUES
     ('Gimli', 'Gloin', 1, NULL),
-    ('Frodo', 'Baggins', 1, 1),
-    ('Gollum', 'Smeagol', 1, NULL),
-    ('Pippin', 'Took', 2, NULL),
-    ('Merry', 'Brandybuck', 2, 2),
-    ('Samwise', 'Gamgee', 2, NULL),
-    ('Treebeard', 'Fangorn', 2, NULL),
-    ('Legolas', 'Greenleaf', 3, NULL),
-    ('Aragorn', 'Ellesar', 3, 3),
-    ('Boromir', 'ben-Denethor', 3, NULL),
-    ('Grima', 'Wormtongue', 3, NULL);
+    ('Frodo', 'Baggins', 2, 1),
+    ('Gollum', 'Smeagol', 3, NULL),
+    ('Pippin', 'Took', 4, NULL),
+    ('Merry', 'Brandybuck', 5, 2),
+    ('Samwise', 'Gamgee', 6, NULL),
+    ('Treebeard', 'Fangorn', 7, NULL),
+    ('Legolas', 'Greenleaf', 8, NULL),
+    ('Aragorn', 'Ellesar', 9, 3),
+    ('Boromir', 'ben-Denethor', 10, NULL),
+    ('Grima', 'Wormtongue', 11, NULL);
 
 
 
