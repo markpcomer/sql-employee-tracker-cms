@@ -16,7 +16,7 @@ To use this application:
 <li> After answering all the prompts according to your specific use case, your database request will be processed based on your responses.</li>
 </ul>
 
-For additional usage instructions, please click this [link to view a Demo Video](https://drive.google.com/file/d/1UfoFcdsSas_feUdbaAjGqig6FKZjDQYK/view?usp=sharing).
+For additional usage instructions, please click this [link to view a Demo Video](https://www.loom.com/share/5cdc146e78694d8caad176c5e731034f?sid=28c13ea5-2f36-4f59-9e57-ac4892074275).
 
 ## Tech 
 
